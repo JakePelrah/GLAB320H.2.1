@@ -1,4 +1,6 @@
+import "./content.css"
+
 export default function Content(props) {
-    return (<p style={{ color: props.color }}>{props.text}</p>);
+    return (<p className="content" style={{ color: props.color }}>{props.text}</p>);
   }
   
