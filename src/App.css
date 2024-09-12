@@ -1,5 +1,11 @@
-html,body{
+html,
+body {
   width: 100%;
   margin: 0;
-  background-color: #427d8c;
+  background-color: #22434b;
+}
+
+#app-content {
+  display: flex;
+  justify-content: center;
 }

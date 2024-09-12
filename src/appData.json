@@ -1,0 +1,17 @@
+[
+    {
+        "color": "blue",
+        "text": "This is my first React Application!",
+        "bg": "black"
+    },
+    {
+        "color": "red",
+        "text": "Wish me luck...",
+        "bg": "black"
+    },
+    {
+        "color": "green",
+        "text": "I think I've got it!",
+        "bg": "black"
+    }
+]
